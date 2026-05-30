@@ -118,6 +118,22 @@ This project was developed as a graduate capstone in applied causal inference. T
 
 ---
 
+## AI Assistance Disclosure
+
+This project was developed with substantial assistance from AI tooling (Perplexity Computer / Claude) for code generation, statistical computation, and document drafting. My contributions include:
+
+- **Question definition and project scope:** identifying the research question, the treatment event, and the data source from my role as a board member at the building studied
+- **Data acquisition:** gathering and organizing 75 monthly financial reports
+- **Methodology direction:** selecting the multi-method triangulation approach, deciding on the calendar-month matching variant, and choosing which methods belonged in the final analysis
+- **Quality control:** verifying statistical outputs against source documents, catching inconsistencies between deliverables, and validating interpretations
+- **Interpretation and judgment:** framing the exclusion restriction, defending the identification strategy under questioning, and deciding on the honest framing of limitations
+
+The AI tooling executed the bulk of the code, statistical computations, and prose generation under my direction and review. All results were verified by me against source documents and against the methodology as I understand it.
+
+This reflects current industry practice, where AI tooling functions as a productivity multiplier rather than a substitute for analyst judgment.
+
+---
+
 ## Contact
 
 **Heeje Yoo**
